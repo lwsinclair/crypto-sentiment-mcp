@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-crypto-sentiment-mcp-badge.png)](https://mseep.ai/app/kukapay-crypto-sentiment-mcp)
+
 # Crypto Sentiment MCP Server
 
 An MCP server that delivers cryptocurrency sentiment analysis to AI agents, leveraging Santiment's aggregated social media and news data to track market mood and detect emerging trends.
